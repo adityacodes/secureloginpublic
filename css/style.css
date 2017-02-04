@@ -1,0 +1,40 @@
+.panel-default>.panel-heading
+{
+	background-color: #FEF8E4;
+	border-color: #FEEEBD;
+}
+
+.body, .panel-default>.panel-body
+{
+	background-color: #FEEEBD;
+}
+
+.panel-default{
+
+	border-color: #FEEEBD;
+}
+
+
+.bttn{
+	font-size: 12px;
+	background-color: #FEEEBD;
+}
+.bttn:hover ,
+.bttn:focus,
+.bttn:active{
+	border: 0.1px solid red;
+	background-color: #FEE890;
+}
+
+.ui-tooltip, .arrow:after {
+	background: yellow;
+	border: 2px solid white;
+}
+.ui-tooltip {
+	padding: 10px 20px;
+	color: black;
+	border-radius: 20px;
+	font: bold 14px "Helvetica Neue", Sans-Serif;
+	text-transform: uppercase;
+	box-shadow: 0 0 7px grey;
+}
