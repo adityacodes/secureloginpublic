@@ -1,3 +1,17 @@
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, a {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Muli', "Helvetica", Arial, sans-serif;
+}
+
+.newnav > li.active button
+{
+	
+	border: 0.1px solid red;
+	background-color: #FEE890;
+}
+
 .panel-default>.panel-heading
 {
 	background-color: #FEF8E4;
@@ -24,6 +38,35 @@
 .bttn:active{
 	border: 0.1px solid red;
 	background-color: #FEE890;
+}
+.bold{
+	font-weight: bold;
+}
+
+.alert-box{
+	border-radius: 10px;
+	color:black;
+	background-color:#FEEEBD;
+	border-color:#edb11a;
+}
+a{
+	text-decoration: none;
+}
+.btttn{
+	font-size: 12px;
+	background-color: #FEE890;
+	border: 0.1px solid red;
+	transition: all .2s ease-in-out;
+	text-decoration: none;
+}
+
+.btttn:hover ,
+.btttn:focus,
+.btttn:active{
+	text-decoration: none;
+	border: 0.1px solid red;
+	background-color: #FEE890;
+	transform: scale(1.1);
 }
 
 .ui-tooltip, .arrow:after {
