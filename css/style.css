@@ -20,6 +20,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, a {
 
 .body, .panel-default>.panel-body
 {
+	font-size: 12px;
 	background-color: #FEEEBD;
 }
 
@@ -80,4 +81,87 @@ a{
 	font: bold 14px "Helvetica Neue", Sans-Serif;
 	text-transform: uppercase;
 	box-shadow: 0 0 7px grey;
+}
+
+#put_help, #get_help {
+    color: #416AA3;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 1px 2px 3px #FFFFFF;
+	}
+
+	    #put_help div {
+	        padding: 7px 0px 7px 50px;
+	        min-height: 50px;
+	    }
+
+	    #get_help div {
+	        padding: 7px 0px 7px 50px;
+	        min-height: 50px;
+	    }
+
+	    #put_help i, #get_help i {
+	        font-size: 12px;
+	        font-style: normal;
+	    }
+
+	    #put_help span.translate {
+	    font-size: 29px;
+	}
+	.ordin_button {
+	    margin-right: 8px;
+	}
+
+	.ordin, .ordin_button {
+	    font-family: Arial,Helvetica,sans-serif;
+	    margin-bottom: 8px;
+	    font-size: 14px;
+	    color: #050505;
+	    padding: 4px 10px;
+	    background: -moz-linear-gradient(top,#ffffff 0%,#ebebeb 50%,#dbdbdb 50%,#b5b5b5);
+	    background: rgb(197,253,98);
+	    background: -moz-linear-gradient(top,rgba(197,253,98,1) 0%,rgba(201,253,119,1) 47%,rgba(168,234,63,1) 63%,rgba(164,228,50,1) 100%);
+	    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(197,253,98,1)),color-stop(47%,rgba(201,253,119,1)),color-stop(63%,rgba(168,234,63,1)),color-stop(100%,rgba(164,228,50,1)));
+	    background: -webkit-linear-gradient(top,rgba(197,253,98,1) 0%,rgba(201,253,119,1) 47%,rgba(168,234,63,1) 63%,rgba(164,228,50,1) 100%);
+	    background: -o-linear-gradient(top,rgba(197,253,98,1) 0%,rgba(201,253,119,1) 47%,rgba(168,234,63,1) 63%,rgba(204,255,50,1) 100%);
+	    background: -ms-linear-gradient(top,rgba(197,253,98,1) 0%,rgba(201,253,119,1) 47%,rgba(168,234,63,1) 63%,rgba(164,228,50,1) 100%);
+	    background: linear-gradient(to bottom,rgba(197,253,98,1) 0%,rgba(201,253,119,1) 47%,rgba(168,234,63,1) 63%,rgba(164,228,50,1) 100%);
+	    border-radius: 16px;
+	    -moz-border-radius: 16px;
+	    -webkit-border-radius: 16px;
+	    border: 1px solid #949494;
+	    -moz-box-shadow: 0px 1px 3px rgba(153,070,153,0.5),inset 0px 0px 2px rgba(255,255,255,1);
+	    -webkit-box-shadow: 0px 1px 3px rgba(153,070,153,0.5),inset 0px 0px 2px rgba(255,255,255,1);
+	}
+
+	.ordout_button {
+	    margin-left: 8px;
+	}
+
+	.ordout, .ordout_button {
+	    font-family: Arial,Helvetica,sans-serif;
+	    margin-bottom: 8px;
+	    font-size: 14px;
+	    color: #050505;
+	    padding: 4px 10px;
+	    background: -moz-linear-gradient(top,#ffffff 0%,#ebebeb 50%,#dbdbdb 50%,#b5b5b5);
+	    background: rgb(251,202,67);
+	    background: -moz-linear-gradient(top,rgba(252,234,187,1) 0%,rgba(252,205,77,1) 46%,rgba(248,181,0,1) 60%,rgba(251,223,147,1) 100%);
+	    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(252,234,187,1)),color-stop(46%,rgba(252,205,77,1)),color-stop(60%,rgba(248,181,0,1)),color-stop(100%,rgba(251,223,147,1)));
+	    background: -webkit-linear-gradient(top,rgba(252,234,187,1) 0%,rgba(252,205,77,1) 46%,rgba(248,181,0,1) 60%,rgba(251,223,147,1) 100%);
+	    background: -o-linear-gradient(top,rgba(252,234,187,1) 0%,rgba(252,205,77,1) 46%,rgba(248,181,0,1) 60%,rgba(251,223,147,1) 100%);
+	    background: -ms-linear-gradient(top,rgba(252,234,187,1) 0%,rgba(252,205,77,1) 46%,rgba(248,181,0,1) 60%,rgba(251,223,147,1) 100%);
+	    background: linear-gradient(to bottom,rgba(252,234,187,1) 0%,rgba(252,205,77,1) 46%,rgba(248,181,0,1) 60%,rgba(251,223,147,1) 100%);
+	    border-radius: 16px;
+	    -moz-border-radius: 16px;
+	    -webkit-border-radius: 16px;
+	    border: 1px solid #949494;
+	    -moz-box-shadow: 0px 1px 3px rgba(153,070,153,0.5),inset 0px 0px 2px rgba(255,255,255,1);
+	    -webkit-box-shadow: 0px 1px 3px rgba(153,070,153,0.5),inset 0px 0px 2px rgba(255,255,255,1);
+	}
+	#cell_orders .ordout, #cell_orders .ordin, #cell_orders .ordout_button, #cell_orders .ordin_button {
+    max-width: 450px;
+    min-width: 180px;
 }
