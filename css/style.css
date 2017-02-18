@@ -1,3 +1,53 @@
+/* aash1010 */
+body
+{
+	overflow: hidden;
+}
+#slide-panel {
+	width:500px;
+	height:800px;
+
+	background:#eee;
+	margin-left:-500px;
+	float: left;
+	max-width: 500px;
+}
+#opener {
+	float:right;
+	margin:0px -40px 0px 0px;
+	border-radius:0;
+	height:800px;
+	background:#8E8675;
+}
+#content
+{
+	height: 500px;
+	width: 100%;
+	float: left;
+	padding-left: 40px;
+}
+.panel2 {
+	width: 500px;
+	height:800px;
+	background:#FEEEBD;
+	position:absolute;
+	margin: 1px;
+	border-color: black;
+}
+.panel1 {
+	height: 800px;
+	position:relative;
+	margin: 1px;
+	border-color: black;
+}
+.slider-arrow {
+}
+.ph {
+	padding: 0px;
+	background:#8E8675 !important;
+	color: white;
+	font-style: bold;
+}
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, a {
   -moz-osx-font-smoothing: grayscale;
