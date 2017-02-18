@@ -215,3 +215,7 @@ a{
     max-width: 450px;
     min-width: 180px;
 }
+	.badge{
+		background-color: #F5F5F5;
+		color: black;
+	}
