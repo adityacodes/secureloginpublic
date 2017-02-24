@@ -68,10 +68,11 @@
 	background:url('icons/more.png') no-repeat center center;
 }
 .icon-dashboard{
-	background:url('icons/lock.png') no-repeat center center;
+	background:url('icons/dashboard.png') no-repeat center center;
 }
-
-
+.icon-mypage{
+	background:url('icons/user.png') no-repeat center center;
+}
 .icon-mini-add{
 	background:url('icons/mini_add.png') no-repeat center center;
 }
@@ -97,3 +98,26 @@
 .icon-large-chart{
 	background:url('icons/large_chart.png') no-repeat center center;
 }
+.icon-pp{
+	background:url('icons/groupicon.png') no-repeat center center;
+}
+.icon-mavro{
+	background:url('icons/mavro.png') no-repeat center center;
+}
+
+.icon-support{
+	background:url('icons/support.png') no-repeat center center;
+}
+
+.icon-account{
+	background:url('icons/account.png') no-repeat center center;
+}
+
+.icon-logout{
+	background:url('icons/logout.png') no-repeat center center;
+}
+
+.icon-letter{
+	background:url('icons/letter.png') no-repeat center center;
+}
+
