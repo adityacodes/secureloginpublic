@@ -1224,3 +1224,6 @@ p.actionbox a {
 #OrderDetail {
     overflow-y: scroll;
 }
+.bg{
+    background-color: #FEEEBD;
+}
