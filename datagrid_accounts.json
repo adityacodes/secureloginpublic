@@ -1,12 +1,3 @@
-{"total":28,"rows":[
-	{"accountid":"FI-SW-01","firstname":"Koi","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"K9-DL-01","firstname":"Dalmation","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"RP-SN-01","firstname":"Rattlesnake","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"RP-SN-01","firstname":"Rattlesnake","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"RP-LI-02","firstname":"Iguana","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"FL-DSH-01","firstname":"Manx","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"FL-DSH-01","firstname":"Manx","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"FL-DLH-02","firstname":"Persian","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"FL-DLH-02","firstname":"Persian","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"},
-	{"accountid":"AV-CB-01","firstname":"Amazon Parrot","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"}
+{"total":10,"rows":[
+	{"accountid":"FI-SW-01","firstname":"Koi","currencycode":"Mavro-USD","bank":"Bitcoin","accno":"accno@gmail.com","details":"Koi"}
 ]}
