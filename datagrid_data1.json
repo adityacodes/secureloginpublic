@@ -1,4 +1,4 @@
-{"total":28,"rows":[
+{"total":10,"rows":[
 	{"position":"FI-SW-01","firstname":"Koi","lastname":10.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":36.50},
 	{"position":"K9-DL-01","firstname":"Dalmation","lastname":12.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":18.50},
 	{"position":"RP-SN-01","firstname":"Rattlesnake","lastname":12.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":38.50},
@@ -8,6 +8,5 @@
 	{"position":"FL-DSH-01","firstname":"Manx","lastname":12.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":83.50},
 	{"position":"FL-DLH-02","firstname":"Persian","lastname":12.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":23.50},
 	{"position":"FL-DLH-02","firstname":"Persian","lastname":12.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":89.50},
-	{"position":"AV-CB-01","firstname":"Amazon Parrot","lastname":92.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":63.50},
 	{"position":"AV-CB-01","firstname":"Amazon Parrot","lastname":92.00,"email":"adityapadhi1996@gmail.com","guider":"guider@gmail.com","city":"Koi","referer":"dummy@gmail.com","status":"P","doc":63.50}
 ]}
