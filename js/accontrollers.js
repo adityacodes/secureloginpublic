@@ -1,9 +1,9 @@
 $(document)
     .ajaxStart(function () {
-    $.messager.progress({
-        title:'Please waiting',
-        msg:'Loading data...'
-    });
+        $.messager.progress({
+            title:'Please waiting',
+            msg:'Loading data...'
+        });
     })
     .ajaxStop(function () {
         $.messager.progress('close');
