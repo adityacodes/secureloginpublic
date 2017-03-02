@@ -574,7 +574,7 @@
   border-radius: 5px 5px 5px 5px;
 }
 .textbox .textbox-text::-ms-clear,
-.textbox .textbox-text::-ms-reveal {
+. .textbox-text::-ms-reveal {
   display: none;
 }
 .textbox textarea.textbox-text {
