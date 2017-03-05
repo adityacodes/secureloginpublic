@@ -123,4 +123,10 @@
 .icon-letter{
 	background:url('icons/letter.png') no-repeat center center;
 }
+.icon-play{
+	background:url('icons/play.png') no-repeat center center;
+}
+.icon-next{
+	background:url('icons/next.png') no-repeat center center;
+}
 
