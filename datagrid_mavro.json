@@ -1,12 +1,3 @@
-{"total":10,"rows":[
-	{"id":"FI-SW-01","type":"Koi","comment":"This is a comment","releasedate":10.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":36.50},
-	{"id":"K9-DL-01","type":"Dalmation","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":18.50},
-	{"id":"RP-SN-01","type":"Rattlesnake","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":38.50},
-	{"id":"RP-SN-01","type":"Rattlesnake","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":26.50},
-	{"id":"RP-LI-02","type":"Iguana","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":35.50},
-	{"id":"FL-DSH-01","type":"Manx","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":158.50},
-	{"id":"FL-DSH-01","type":"Manx","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":83.50},
-	{"id":"FL-DLH-02","type":"Persian","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":23.50},
-	{"id":"FL-DLH-02","type":"Persian","comment":"This is a comment","releasedate":12.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":89.50},
-	{"id":"AV-CB-01","type":"Amazon Parrot","comment":"This is a comment","releasedate":92.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":63.50}
+{"total":1,"rows":[
+	{"id":"FI-SW-01","type":"Koi","comment":"This is a comment","releasedate":10.00,"initialpayment":10.00,"wallet":"100$","description":"description@gmail.com","oncurrentdate":"Koi","onreleasedate":"dummy@gmail.com","future":"P","doc":36.50}
 ]}
